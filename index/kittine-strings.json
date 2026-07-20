@@ -1,0 +1,10 @@
+{
+  "name": "kittine-strings",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "tarball": "https://github.com/buildsbybuchanan/kittine-registry/releases/download/kittine-strings-v0.1.0/kittine-strings-0.1.0.tar.gz",
+      "sha256": "5f5cbc16a718fc03823756da9114be075e541ab0a4684754f4616a91be4c2932"
+    }
+  ]
+}
